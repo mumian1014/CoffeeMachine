@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Problems/Application as a class/out/
+/Problems/Application as a class/out/production/classes/
+/Problems/Board game basics  Game/out/
+/Problems/Board game basics  Game/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Constructor property/out/
+/Problems/Constructor property/out/production/classes/
+/Problems/Grades/out/
+/Problems/Grades/out/production/classes/
+/Problems/Kotlin x5/out/
+/Problems/Kotlin x5/out/production/classes/
+/Problems/Maximum element divisible by 4/out/
+/Problems/Maximum element divisible by 4/out/production/classes/
+/Problems/Reddit/out/
+/Problems/Reddit/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The Hello World program/out/
+/Problems/The Hello World program/out/production/classes/
+/Problems/The sequence 1 2 2 3 3 3 .../out/
+/Problems/The sequence 1 2 2 3 3 3 .../out/production/classes/
